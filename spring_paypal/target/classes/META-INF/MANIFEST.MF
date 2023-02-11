@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kishore
+Build-Jdk: 17.0.6
+Implementation-Title: spring_paypal
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring_paypal
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring_paypal
+Created-By: Maven Integration for Eclipse
+
